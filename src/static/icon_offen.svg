@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="36px" viewBox="0 0 37 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>常用访客icon</title>
+    <defs>
+        <filter x="-13.7%" y="-115.4%" width="127.5%" height="330.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="6.33567016%" x2="50%" y2="93.9709908%" id="linearGradient-2">
+            <stop stop-color="#13B574" offset="0%"></stop>
+            <stop stop-color="#09BF76" offset="45.7987325%"></stop>
+            <stop stop-color="#01C878" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页/管理" transform="translate(-125.000000, -528.000000)">
+            <g id="常用访客按钮" transform="translate(47.501625, 516.000000)">
+                <g id="常用访客icon" transform="translate(78.000000, 12.000000)">
+                    <g id="编组-12" transform="translate(6.500000, 5.500000)">
+                        <rect id="矩形" fill="#01C878" opacity="0.458542597" filter="url(#filter-1)" x="0.252337487" y="22.3584794" width="21.8229605" height="2.60066256"></rect>
+                        <path d="M3,0 L19.32592,0 C20.9827742,1.39730022e-16 22.32592,1.34314575 22.32592,3 L22.32592,20.6588107 C22.32592,22.315665 20.9827742,23.6588107 19.32592,23.6588107 L3,23.6588107 C1.34314575,23.6588107 6.46995335e-16,22.315665 0,20.6588107 L0,3 C2.41183085e-16,1.34314575 1.34314575,7.48448398e-16 3,0 Z" id="矩形备份-2" fill="url(#linearGradient-2)" fill-rule="nonzero" filter="url(#filter-3)"></path>
+                        <g id="编组-11" transform="translate(3.998672, 4.602637)">
+                            <line x1="0.206284461" y1="0.333222686" x2="14.3285755" y2="0.333222686" id="直线-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="0.206284461" y1="6.1811698" x2="4.50347372" y2="6.1811698" id="直线-2备份" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <circle id="椭圆形" fill="#FFFFFF" cx="10.6391559" cy="8.68033994" r="2.49917015"></circle>
+                            <path d="M10.3072609,11.7071657 L10.9710508,11.7071657 C13.1801898,11.7071657 14.9710508,13.4980267 14.9710508,15.7071657 L14.9710508,16.1292479 L14.9710508,16.1292479 L6.30726095,16.1292479 L6.30726095,15.7071657 C6.30726095,13.4980267 8.09812195,11.7071657 10.3072609,11.7071657 Z" id="矩形" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                    <rect id="矩形" x="0" y="-1.13686838e-13" width="36" height="36"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

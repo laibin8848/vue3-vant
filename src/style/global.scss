@@ -1,0 +1,45 @@
+#app {
+    margin: 0 auto;
+    overflow: hidden;
+    // max-width: 1024px;
+}
+@media screen and (min-width: 1024px) {
+  // #app {
+    // transform: scale(0.8, 0.8);
+    // max-width: 375px;
+    // transform: scale(0.7, 0.7);
+  // }
+}
+.__flex_1 { flex: 1; }
+.__align_r { text-align: right; }
+.van-toast {
+    background: rgba(0, 0, 0, 0.7) !important;
+}
+.head_logo {
+    width: 121px;
+}
+
+.back-home {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border: 1px #000 solid;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}

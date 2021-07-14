@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="377px" height="66px" viewBox="0 0 377 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>首页底部背景底纹</title>
+    <defs>
+        <linearGradient x1="58.4830527%" y1="48.9080288%" x2="2.82942942%" y2="51.6337421%" id="linearGradient-1">
+            <stop stop-color="#FF5F2A" offset="1.90395542%"></stop>
+            <stop stop-color="#F60D2D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="58.4830527%" y1="49.2577522%" x2="2.82942942%" y2="51.1105068%" id="linearGradient-3">
+            <stop stop-color="#FF5F2A" offset="1.90395542%"></stop>
+            <stop stop-color="#F60D2D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页/管理" transform="translate(1.000000, -747.000000)">
+            <g id="首页底部背景底纹" transform="translate(-1.356824, 747.000000)">
+                <rect id="矩形" x="1.35682354" y="0" width="375.643176" height="65.0912901"></rect>
+                <path d="M1.35682354,40.25 C56.058786,13.75 112.225994,13.75 169.858449,40.25 C227.490903,66.75 296.430165,54.6666667 376.676235,4 L376.676235,66 L1.35682354,66 L1.35682354,40.25 Z" id="路径-3" fill="url(#linearGradient-1)" opacity="0.13969494" filter="url(#filter-2)"></path>
+                <path d="M1.35682354,25.5 C25.6901569,5.95193886 65.1910349,11.0753924 119.859458,40.8703605 C183.770893,64.379253 253.018069,23.0195352 308.730747,25.5 C345.872533,27.1536432 368.521029,39.6536432 376.676235,63 L376.676235,65 L1.35682354,65 L1.35682354,25.5 Z" id="路径-4" fill="url(#linearGradient-3)" opacity="0.0825892857" filter="url(#filter-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

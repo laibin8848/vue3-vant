@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>新建预约icon</title>
+    <defs>
+        <filter x="-13.7%" y="-115.4%" width="127.5%" height="330.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="4.98150945%" x2="50%" y2="93.9709908%" id="linearGradient-2">
+            <stop stop-color="#FF6E35" offset="0%"></stop>
+            <stop stop-color="#FF7E35" offset="43.6707823%"></stop>
+            <stop stop-color="#FF8E35" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-108.3%" y="-96.2%" width="315.2%" height="291.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.909505208   0 0 0 0 0.343649445   0 0 0 0 0.121209593  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页/管理" transform="translate(-125.000000, -343.000000)">
+            <g id="新建预约" transform="translate(47.501625, 332.000000)">
+                <g transform="translate(77.500000, 10.500000)" id="新建预约icon">
+                    <rect id="矩形" x="0.3424825" y="1.5" width="36" height="36"></rect>
+                    <g id="编组-4" transform="translate(6.842482, 7.000000)">
+                        <rect id="矩形" fill="#FF6E0D" opacity="0.458542597" filter="url(#filter-1)" x="0.340857345" y="22.1585731" width="21.8229605" height="2.60066256"></rect>
+                        <path d="M3,-1.77635684e-14 L13.5735966,-1.77635684e-14 C14.3492303,-1.790605e-14 15.0947195,0.300408754 15.6536428,0.838193336 L21.4059661,6.37296114 C21.993764,6.93852825 22.32592,7.71906409 22.32592,8.5347678 L22.32592,20.4589044 C22.32592,22.1157586 20.9827742,23.4589044 19.32592,23.4589044 L3,23.4589044 C1.34314575,23.4589044 2.1158937e-13,22.1157586 2.11386464e-13,20.4589044 L2.11386464e-13,3 C2.11627647e-13,1.34314575 1.34314575,-1.701512e-14 3,-1.77635684e-14 Z" id="矩形" fill="url(#linearGradient-2)" fill-rule="nonzero" filter="url(#filter-3)"></path>
+                        <g id="编组-13" filter="url(#filter-4)" transform="translate(5.087616, 6.062401)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <line x1="5.9087282" y1="0.499899075" x2="5.9087282" y2="12.3292394" id="直线"></line>
+                            <line x1="11.8293403" y1="6.3709464" x2="-3.19744231e-14" y2="6.3709464" id="直线备份"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
